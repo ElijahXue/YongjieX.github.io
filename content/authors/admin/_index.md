@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yongjie Xue is a PhD candidate of computer science at the University of Nebraska-Lincoln. His research interests include autonomous driving, robotics. He also interests in software development. 
 {style="text-align: justify;"}
